@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hellocsvhelper", "hellocsvhelper\hellocsvhelper.csproj", "{309E7A83-515A-456D-92DF-26B166E8BFE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{309E7A83-515A-456D-92DF-26B166E8BFE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{309E7A83-515A-456D-92DF-26B166E8BFE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{309E7A83-515A-456D-92DF-26B166E8BFE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{309E7A83-515A-456D-92DF-26B166E8BFE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CE8386B-D521-448F-B1EE-4243F9A5C117}
+	EndGlobalSection
+EndGlobal

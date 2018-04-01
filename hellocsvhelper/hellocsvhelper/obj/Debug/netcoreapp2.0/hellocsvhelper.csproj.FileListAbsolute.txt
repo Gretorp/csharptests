@@ -1,0 +1,11 @@
+c:\users\andre\source\repos\hellocsvhelper\hellocsvhelper\bin\Debug\netcoreapp2.0\hellocsvhelper.deps.json
+c:\users\andre\source\repos\hellocsvhelper\hellocsvhelper\bin\Debug\netcoreapp2.0\hellocsvhelper.runtimeconfig.json
+c:\users\andre\source\repos\hellocsvhelper\hellocsvhelper\bin\Debug\netcoreapp2.0\hellocsvhelper.runtimeconfig.dev.json
+c:\users\andre\source\repos\hellocsvhelper\hellocsvhelper\bin\Debug\netcoreapp2.0\hellocsvhelper.dll
+c:\users\andre\source\repos\hellocsvhelper\hellocsvhelper\obj\Debug\netcoreapp2.0\hellocsvhelper.csprojResolveAssemblyReference.cache
+c:\users\andre\source\repos\hellocsvhelper\hellocsvhelper\obj\Debug\netcoreapp2.0\hellocsvhelper.csproj.CoreCompileInputs.cache
+c:\users\andre\source\repos\hellocsvhelper\hellocsvhelper\obj\Debug\netcoreapp2.0\hellocsvhelper.AssemblyInfoInputs.cache
+c:\users\andre\source\repos\hellocsvhelper\hellocsvhelper\obj\Debug\netcoreapp2.0\hellocsvhelper.AssemblyInfo.cs
+c:\users\andre\source\repos\hellocsvhelper\hellocsvhelper\bin\Debug\netcoreapp2.0\hellocsvhelper.pdb
+c:\users\andre\source\repos\hellocsvhelper\hellocsvhelper\obj\Debug\netcoreapp2.0\hellocsvhelper.dll
+c:\users\andre\source\repos\hellocsvhelper\hellocsvhelper\obj\Debug\netcoreapp2.0\hellocsvhelper.pdb
